@@ -19,5 +19,4 @@ app.get('/', (req, res) => {
 // Iniciar o servidor
 app.listen(PORT, () => {
     console.log(`Servidor rodando em http://localhost:${PORT}`);
-    console.log("⚠️ Debug: servidor iniciado"); // simula um problema
 });

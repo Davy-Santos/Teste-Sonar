@@ -16,9 +16,6 @@ const createUser = (userData) => {
     const users = getAllUsers();
     const newId = users.length > 0 ? Math.max(...users.map(user => user.id)) + 1 : 1;
     const newUser = { id: newId, ...userData };
-    
- const tempVariable = 123; // ⚠️ variável não utilizada, simula um problema
-
     users.push(newUser);
     saveUsers(users);
     return newUser;
