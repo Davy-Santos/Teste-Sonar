@@ -2,5 +2,5 @@ projectKey=crud-api-users-davy
 serverUrl=http://localhost:9000
 serverVersion=25.9.0.112764
 dashboardUrl=http://localhost:9000/dashboard?id=crud-api-users-davy
-ceTaskId=0e1d8fc0-932f-453c-ba56-82288ee62013
-ceTaskUrl=http://localhost:9000/api/ce/task?id=0e1d8fc0-932f-453c-ba56-82288ee62013
+ceTaskId=f07f6ee6-8c71-4006-8cfe-ba1167f64e6b
+ceTaskUrl=http://localhost:9000/api/ce/task?id=f07f6ee6-8c71-4006-8cfe-ba1167f64e6b
